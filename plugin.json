@@ -1,7 +1,7 @@
 {
 	"version": "1.0.1",
 	"title": "No robots",
-	"description": "Adds a custom robots.txt file to prevent Google and other search engines from indexing your microblog.",
+	"description": "Adds a custom robots.txt file and meta tag to prevent Google and other search engines from indexing your microblog.",
 	"includes": [
 		"noindex.html"
 	]
